@@ -1,4 +1,5 @@
 # Fiverr.com-Clone
+**| HTML5 | CSS3 | JavaScript | Responsive Web Design | React**
 * Developed a dynamic and responsive platform for connecting freelancers with clients using the MERN stack (MongoDB, Express.js, React.js, Node.js). * Designed and maintained robust user account management for tracking orders and managing gigs. 
 * Implemented secure payment gateways and advanced search functionality for an enhanced user experience.
 * Designed and maintained robust user account management for tracking orders and managing gigs.
